@@ -1,4 +1,4 @@
-# tasks.py - Gerenciador de tarefas simples
+# tasks.py - Gerenciador de tarefas simple
 
 tasks = []
 
